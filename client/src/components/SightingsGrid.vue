@@ -13,6 +13,7 @@ export default {
 		'sighting': Sighting
 	},
 	props: ['sightings']
+	
 }
 </script>
 

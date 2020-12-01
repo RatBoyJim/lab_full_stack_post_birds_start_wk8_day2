@@ -35,7 +35,7 @@ export default {
 		addSighting(e){
 			e.preventDefault()
 			const sighting = {
-				name: this.name,
+				species: this.species,
 				location: this.location,
 				date: this.date
 			}
